@@ -1,2 +1,4 @@
 git push --set-upstream origin master
 git push --set-upstream origin master
+LEYLA BRANCHI  2. EKLEME
+MASTER BRANCHI 2.EKLEME
