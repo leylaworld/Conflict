@@ -1,3 +1,5 @@
 git push --set-upstream origin master
 git push --set-upstream origin master
 MASTER BRANCH YENİ EKLEME
+git push --set-upstream origin master
+
